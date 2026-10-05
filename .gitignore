@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+target/
+
+# Environment-specific configuration
+.env
+.env.local
+
+# IDE and operating-system files
+.DS_Store
+*.iml
+
+# Logs
+*.log
